@@ -1,4 +1,6 @@
-# magento2-category-list-widget
+# Magento2 Category List Widget
+
+<img src="https://i.ibb.co/X8t1P0Q/Magento2-1.png" alt="Magento2-1" border="0">
 
 #Features
 <ul>
